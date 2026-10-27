@@ -1,8 +1,8 @@
 {
-  "name": "plantilla",
+  "name": "morse",
   "version": "1.0.0",
-  "description": "plantilla basado en ES",
-  "homepage": "https://github.com/BalamPerales/Juego-Dragon-Ball",
+  "description": "Traductor de código Morse en ES",
+  "homepage": "https://BalamPerales.github.io/Morse",
   "license": "MIT",
   "author": "Balam  ",
   "main": "index.js",
